@@ -1,7 +1,9 @@
-This project is made of background images that expand when clicked on. 
+This project is a hamburger bar that replicates the Netflix pop-out when the hamburgers are clicked.
+
+Note the time delay on the various levels of the nav bar
 
 It uses Flexbox, CSS transitions and JavaScript
 
 This could be converted to be used in (for example) the following ways
 
-- 
+- nice navigation for any website
